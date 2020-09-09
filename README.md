@@ -1,1 +1,1 @@
-# Daegu_instagram Python Crawling
+# Instagram Python Crawling
